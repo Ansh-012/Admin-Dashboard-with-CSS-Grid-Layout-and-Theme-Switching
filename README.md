@@ -1,5 +1,3 @@
-# Admin-Dashboard-with-CSS-Grid-Layout-and-Theme-Switching
-
 ## HTML + CSS + JavaScript
 
 This is a sample project to demonstrate the use of HTML, CSS and JavaScript. Start modefy the index.html, styles.css & script.js files to see the changes.
